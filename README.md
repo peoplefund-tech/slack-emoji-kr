@@ -15,9 +15,10 @@
 * 슬랙에서 작성한 글에 마우스를 가져다대면 뜨는 **Add reaction** 버튼을 클릭합니다.
   ![](./samples/slack-emoji-kr-manual02.png)
 
-* 이모지 선택 팝업에서 **슬랙아이콘(#모양)**을 클릭하면 직접 등록한 이모지를 선택할 수 있습니다.
+* 이모지 선택 팝업에서 **슬랙아이콘(#모양)** 을 클릭하면 직접 등록한 이모지를 선택할 수 있습니다.
   ![](./samples/slack-emoji-kr-manual03.png)
 
 * 상황에 맞게 적절히 사용합니다.
+
   ![](./samples/slack-emoji-kr-manual04.png)
 
