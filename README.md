@@ -2,7 +2,8 @@
 
 ## 라이선스
 * <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
-* 본 저작물에서 사용한 폰트는 [(주)피플펀드컴퍼니](https://www.peoplefund.co.kr/team/)의 명의로 구매한 [마켓히읗의 바람체](http://markethiut.com/product/detail.html?product_no=31)로, (주)피플펀드컴퍼니의 자산입니다.
+* 본 저작물에서 사용한 폰트는 [(주)피플펀드컴퍼니](https://www.peoplefund.co.kr/team/)의 명의로 구매한 [마켓히읗의 바람체](http://markethiut.com/product/detail.html?product_no=31) 사용권 3으로, (주)피플펀드컴퍼니의 자산입니다.
+  >  사용권 3: 상업적인 인쇄, 출판, 전자출판과 C.I, B.I, 영상, 웹 이미지, 옥외 간판, 제품 제작 등에 사용하실 수 있습니다. 단, 서버등을 통한 재판매는 제외입니다.
 * 슬랙 내에서는 저작자를 표시할 수 없으므로 자유롭게 사용하시면 됩니다.
 
 ## 사용 방법
