@@ -7,7 +7,11 @@
 * 슬랙 내에서는 저작자를 표시할 수 없으므로 자유롭게 사용하시면 됩니다.
 
 ## 사용 방법
+* [emoji](https://github.com/peoplefund-tech/slack-emoji-kr/tree/master/emoji) 디렉토리에서 이모지를 다운로드 받습니다.
+  * Github의 사용법을 잘 모르는 경우 주변 개발자의 도움을 받습니다.
+
 * https://[WORKSPACE_NAME].slack.com/admin/emoji 에 접속합니다.
+  * [WORKSPACE_NAME]에는 이모지를 등록할 슬랙 워크스페이스 이름을 입력합니다.
 
 * **Add Custom Emoji**를 클릭하여 이모지 파일을 등록합니다.
   * 이모지 파일명을 적절하게 부여해두었으니 이모지 네임 설정 시 참고하시면 좋습니다.
