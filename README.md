@@ -31,5 +31,5 @@
 
 
 ## v1.0
-![](.samples/slack-emoji-kr-sample-v1.0.png)
+![](./samples/slack-emoji-kr-sample-v1.0.png)
 
